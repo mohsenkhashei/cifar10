@@ -1,5 +1,17 @@
 {
     "cSpell.words": [
-        "crossentropy"
+        "argmax",
+        "cmap",
+        "crossentropy",
+        "disp",
+        "figsize",
+        "fontsize",
+        "imshow",
+        "relu",
+        "softmax",
+        "suptitle",
+        "viridis",
+        "xlabel",
+        "ylabel"
     ]
 }
