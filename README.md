@@ -156,6 +156,16 @@ The modified CNN training process, along with visualizations, aims to improve mo
 ![Alt text](images/2/3.png)
 ![Alt text](images/2/4.png)
 
+## Run #3
+learning rate 0.001 -> 0.002
+
+
+![Alt text](images/3/1.png)
+![Alt text](images/3/2.png)
+![Alt text](images/3/3.png)
+![Alt text](images/3/4.png)
+![Alt text](images/3/4.png)
+
 
 ### Requirements
 
