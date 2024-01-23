@@ -135,8 +135,28 @@ The modified CNN training process, along with visualizations, aims to improve mo
 
 
 ## Visualization
+#### CNN MODEL
+![CNN Architecture](cnn_architecture.png) 
 
 
+## Run #1
+
+![Alt text](images/1/image-1.png)
+![Alt text](images/1/1.png)
+![Alt text](images/1/2.png)
+![Alt text](images/1/3.png)
+![Alt text](images/1/4.png)
+![Alt text](images/1/5.png)
+
+## Run #2
+
+
+![Alt text](images/2/1.png)
+![Alt text](images/2/1.png)
+![Alt text](images/2/2.png)
+![Alt text](images/2/3.png)
+![Alt text](images/2/4.png)
+![Alt text](images/2/5.png)
 
 ### Requirements
 
@@ -158,8 +178,15 @@ inside anaconda install following packages:
         - graphviz   
         - python-graphviz
 
+using tensor board dashboard:
 
-tensorboard --logdir logs/fit
+installing `pip install tensorboard`
+```
+# run this in commandline: 
+
+tensorboard --logdir logs/fit`
+```
+
 
 
 - TensorBoard provides a suite of visualization tools to understand, debug, and optimize the model training process.
