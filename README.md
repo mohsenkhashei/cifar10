@@ -1,6 +1,6 @@
 
 
-# Improved CNN Training and Visualization Documentation
+# Improved CNN Training and Visualization
 
 ## Objective
 The objective of this document is to provide a detailed overview of the modifications made to the Convolutional Neural Network (CNN) training process for the CIFAR-10 dataset. The changes are aimed at enhancing model performance through data augmentation, learning rate scheduling, and other strategies.
@@ -134,7 +134,31 @@ The modified CNN training process, along with visualizations, aims to improve mo
 
 
 
-## Coding part
+## Visualization
+
+
+
+### Requirements
+
+installation below:
+
+<small>installation is different for various OS</small>
+
+- `# anaconda3 `
+
+inside anaconda install following packages:
+
+ 
+    - build environment:
+
+        - install python 
+        - install tensorflow
+        - matplotlib 
+        - pydot
+        - graphviz   
+        - python-graphviz
+
+
 tensorboard --logdir logs/fit
 
 
