@@ -58,7 +58,7 @@ The following table summarizes the key parameters used in the CNN training proce
 
 | Parameter          | Value     |
 |--------------------|-----------|
-| Epochs             | 50        |
+| Epochs             | 10        |
 | Batch Size         | 64        |
 | Validation Split   | 0.2       |
 | Optimizer          | Adam      |
@@ -165,6 +165,35 @@ learning rate 0.001 -> 0.002
 ![Alt text](images/3/3.png)
 ![Alt text](images/3/4.png)
 ![Alt text](images/3/4.png)
+
+## Run #4
+
+
+![Alt text](images/4/1.png)
+![Alt text](images/4/2.png)
+![Alt text](images/4/3.png)
+![Alt text](images/4/4.png)
+
+## Run #5
+
+
+![Alt text](images/41/1.png)
+![Alt text](images/41/2.png)
+![Alt text](images/41/3.png)
+
+## RS Squarred       
+
+![Alt text](images/5/s1.png)
+![Alt text](images/5/s2.png)
+![Alt text](images/5/s3.png)
+
+## Important Note:       
+
+![Alt text](images/6/1.png)
+![Alt text](images/6/2.png)
+![Alt text](images/6/3.png)
+
+
 
 
 ### Requirements
