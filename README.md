@@ -151,7 +151,6 @@ The modified CNN training process, along with visualizations, aims to improve mo
 ## Run #2
 
 
-![Alt text](images/2/1.png)
 ![Alt text](images/2/2.png)
 ![Alt text](images/2/3.png)
 ![Alt text](images/2/4.png)
